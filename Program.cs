@@ -14,8 +14,9 @@
 
             //SwitchCaseStatement.UseSwitchCaseStatement();
 
-            EmpWorkingDay.CalWagesForMonthWorkingDays();
+            //EmpWorkingDay.CalWagesForMonthWorkingDays();
 
+            EmployeeMaxHrs.CalEmpWageForConditionOfHrsAndMaxdays();
 
         }
            

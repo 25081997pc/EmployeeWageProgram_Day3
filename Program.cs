@@ -8,7 +8,9 @@
 
             //EmployeeCheck.CheckEmployeePresentOrNot();
 
-            EmployeeWage.CalculateEmployeeWage();
+            //EmployeeWage.CalculateEmployeeWage();
+
+            EmployeeAddPartWage.CalculateAddPartTimeEmpWage();
         }
            
     }

@@ -10,7 +10,10 @@
 
             //EmployeeWage.CalculateEmployeeWage();
 
-            EmployeeAddPartWage.CalculateAddPartTimeEmpWage();
+            //EmployeeAddPartWage.CalculateAddPartTimeEmpWage();
+
+            SwitchCaseStatement.UseSwitchCaseStatement();
+
         }
            
     }

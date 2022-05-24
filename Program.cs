@@ -12,7 +12,10 @@
 
             //EmployeeAddPartWage.CalculateAddPartTimeEmpWage();
 
-            SwitchCaseStatement.UseSwitchCaseStatement();
+            //SwitchCaseStatement.UseSwitchCaseStatement();
+
+            EmpWorkingDay.CalWagesForMonthWorkingDays();
+
 
         }
            
